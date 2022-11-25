@@ -1,0 +1,10 @@
+footer{
+    background-color: #3A4D2E;
+}
+.footer--content{
+    font-family: "Karla";
+    font-size: .7rem;
+    font-style: normal;
+    color: #efefef;
+    padding: 1rem .5rem;
+}
