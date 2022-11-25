@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    padding-bottom: 3.5rem;
+    background-image:url(../assets/img-header.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: "Yeseva One";
+    color: #3D3B3B;
+
+}
+
+.header--title{
+    padding-left: 1.5rem;
+    font-size: 2.5rem;
+}
