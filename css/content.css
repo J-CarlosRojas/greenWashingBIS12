@@ -1,17 +1,23 @@
-.content--title{
+.content--title {
     display: flex;
     font-family: "Satisfy";
     justify-content: center;
-    padding: 1rem 0;
+    padding: 1rem .2rem;
     font-style: normal;
     color: #526654;
 }
 
-.content--p{
+.content--p {
     display: flex;
     text-align: center;
     color: #524A4A;
     font-family: "karla";
     padding: .5rem;
     font-style: normal;
+}
+
+.div--img {
+    display: flex;
+    width: 100%;
+    padding: 1rem 0;
 }
